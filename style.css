@@ -29,6 +29,13 @@ img{
     object-fit: cover;
 }
 
+button{
+    background-color: transparent;
+    color: white;
+    padding: 0 1rem;
+    cursor: pointer;
+}
+
 .container-carrousel{
     width: 35%;
     height: 90%;
@@ -73,6 +80,7 @@ img{
     background-color: transparent;
     border-radius: 8px;
     transition: border ease-in 0.3s;
+    cursor: pointer;
 }
 
 .card-image img{
